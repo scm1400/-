@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.705
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "muice", "Setup2\Setup2.vdproj", "{CE9CFFC6-00F5-44D8-94A7-D153E0AE97B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE9CFFC6-00F5-44D8-94A7-D153E0AE97B1}.Debug|Default.ActiveCfg = Debug
+		{CE9CFFC6-00F5-44D8-94A7-D153E0AE97B1}.Debug|Default.Build.0 = Debug
+		{CE9CFFC6-00F5-44D8-94A7-D153E0AE97B1}.Release|Default.ActiveCfg = Release
+		{CE9CFFC6-00F5-44D8-94A7-D153E0AE97B1}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2886D78-EF09-4F4F-8E53-533046C62FF8}
+	EndGlobalSection
+EndGlobal
